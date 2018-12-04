@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/em.dir/em.c.o  -o em -L/usr/local/lib -lenergymon-osp -L/usr/local/lib -lenergymon-osp -lhidapi-libusb 

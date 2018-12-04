@@ -1,0 +1,8 @@
+
+ TODO in this week (~9th Friday)
+ done 1. can everybody use to energymom(currently only for superuser)
+ 2. code wrapper for this API
+ done 3. why energy consumption is still 0 ???
+  root  can only access to udeb/ (usb devive access)
+ 4. Figure out why n=100 shows comsumed energy but not in n=1000
+ 5. Keras install 

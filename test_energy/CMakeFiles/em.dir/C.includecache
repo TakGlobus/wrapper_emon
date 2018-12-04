@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tkurihana/src/test_energy/em.c
+stdio.h
+-
+stdint.h
+-
+energymon-osp.h
+-
+
+/usr/local/include/energymon/energymon-osp.h
+inttypes.h
+-
+stddef.h
+-
+energymon.h
+/usr/local/include/energymon/energymon.h
+
+/usr/local/include/energymon/energymon.h
+inttypes.h
+-
+stddef.h
+-
+

@@ -1,0 +1,7 @@
+##
+  1   #
+  2   # TODO
+  3   #
+  4   struct.py has import error relating to FFI()
+  5
+  6   Solve the reason why the import error happens
